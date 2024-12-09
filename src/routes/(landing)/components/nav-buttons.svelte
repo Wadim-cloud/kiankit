@@ -22,7 +22,7 @@
 			href="/Partner-Program">Partner-Program</Button
 		>
 		<Button size="sm" variant="ghost" class="rounded-full text-foreground/60" href="/blog"
-			>Blog</Button
+			>Blogs</Button
 		>
 	</div>
 	<div class="flex items-center">
